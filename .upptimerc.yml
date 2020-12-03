@@ -4,3 +4,7 @@ repo: uptime # Your Github repository name
 sites:
   - name: nikol.as
     url: https://nikol.as/
+
+status-website:
+  baseUrl: /uptime # where "repo" is your repository name
+  name: Uptime
