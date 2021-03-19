@@ -4,17 +4,17 @@
     "url": "https://nikol.as/",
     "icon": "https://favicons.githubusercontent.com/nikol.as",
     "slug": "nikol-as",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 348,
-    "timeWeek": 201,
-    "timeMonth": 226,
-    "timeYear": 275,
+    "time": 273,
+    "timeDay": 221,
+    "timeWeek": 187,
+    "timeMonth": 222,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   }
 ]
