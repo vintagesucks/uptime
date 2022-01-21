@@ -6,17 +6,16 @@
     "slug": "nikol-as",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 273,
-    "timeDay": 507,
-    "timeWeek": 478,
-    "timeMonth": 439,
+    "timeDay": 536,
+    "timeWeek": 487,
+    "timeMonth": 436,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-01-20": 9,
       "2021-11-22": 109
     }
   }
