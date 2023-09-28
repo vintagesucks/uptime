@@ -11,13 +11,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 124,
-    "timeWeek": 170,
+    "timeDay": 139,
+    "timeWeek": 168,
     "timeMonth": 172,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2022-12-25": 16
     }
+  },
+  {
+    "name": "PPA",
+    "url": "https://vintagesucks.github.io/ppa/",
+    "icon": "https://icons.duckduckgo.com/ip3/vintagesucks.github.io.ico",
+    "slug": "ppa",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 41,
+    "timeDay": 41,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PPA (Ubuntu 22.04)",
@@ -30,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 118,
-    "timeWeek": 126,
-    "timeMonth": 89,
-    "timeYear": 113,
+    "time": 112,
+    "timeDay": 65,
+    "timeWeek": 112,
+    "timeMonth": 87,
+    "timeYear": 112,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Wiki",
+    "url": "https://vintagesucks.github.io/wiki/",
+    "icon": "https://icons.duckduckgo.com/ip3/vintagesucks.github.io.ico",
+    "slug": "wiki",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 15,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 15,
+    "timeYear": 15,
     "dailyMinutesDown": {}
   }
 ]
