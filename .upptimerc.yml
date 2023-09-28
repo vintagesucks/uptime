@@ -4,8 +4,12 @@ repo: uptime # Your Github repository name
 sites:
   - name: nikol.as
     url: https://nikol.as/
+  - name: PPA
+    url: https://vintagesucks.github.io/ppa/
   - name: PPA (Ubuntu 22.04)
     url: https://vintagesucks.github.io/ppa/ubuntu/jammy/Packages
+  - name: Wiki
+    url: https://vintagesucks.github.io/wiki/
 
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
