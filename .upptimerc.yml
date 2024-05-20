@@ -8,6 +8,8 @@ sites:
     url: https://vintagesucks.github.io/ppa/
   - name: PPA (Ubuntu 22.04)
     url: https://vintagesucks.github.io/ppa/ubuntu/jammy/Packages
+  - name: PPA (Ubuntu 24.04)
+    url: https://vintagesucks.github.io/ppa/ubuntu/noble/Packages
   - name: Wiki
     url: https://vintagesucks.github.io/wiki/
 
