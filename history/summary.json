@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 147,
-    "timeWeek": 215,
-    "timeMonth": 252,
-    "timeYear": 223,
-    "dailyMinutesDown": {
-      "2023-10-30": 21
-    }
+    "timeDay": 157,
+    "timeWeek": 201,
+    "timeMonth": 254,
+    "timeYear": 213,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PPA",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 134,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 88,
+    "timeDay": 57,
+    "timeWeek": 86,
+    "timeMonth": 97,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 124,
-    "timeWeek": 56,
-    "timeMonth": 40,
+    "timeDay": 4,
+    "timeWeek": 43,
+    "timeMonth": 39,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 96,
-    "timeWeek": 56,
-    "timeMonth": 43,
+    "timeDay": 5,
+    "timeWeek": 41,
+    "timeMonth": 42,
     "timeYear": 46,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 96,
-    "timeWeek": 53,
-    "timeMonth": 41,
+    "timeDay": 5,
+    "timeWeek": 40,
+    "timeMonth": 40,
     "timeYear": 49,
     "dailyMinutesDown": {}
   }
