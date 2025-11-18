@@ -4,18 +4,20 @@
     "url": "https://nikol.as/",
     "icon": "https://icons.duckduckgo.com/ip3/nikol.as.ico",
     "slug": "nikol-as",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 274,
-    "timeWeek": 358,
-    "timeMonth": 353,
+    "timeDay": 276,
+    "timeWeek": 349,
+    "timeMonth": 351,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 9
+    }
   },
   {
     "name": "PPA",
