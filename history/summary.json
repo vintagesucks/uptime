@@ -4,19 +4,19 @@
     "url": "https://nikol.as/",
     "icon": "https://icons.duckduckgo.com/ip3/nikol.as.ico",
     "slug": "nikol-as",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.97%",
     "time": 322,
-    "timeDay": 285,
-    "timeWeek": 345,
+    "timeDay": 302,
+    "timeWeek": 348,
     "timeMonth": 350,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 151
     }
   },
   {
