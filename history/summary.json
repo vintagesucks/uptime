@@ -24,19 +24,19 @@
     "url": "https://vintagesucks.github.io/ppa/",
     "icon": "https://icons.duckduckgo.com/ip3/vintagesucks.github.io.ico",
     "slug": "ppa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 129,
-    "timeWeek": 141,
-    "timeMonth": 120,
-    "timeYear": 110,
+    "time": 116,
+    "timeDay": 490,
+    "timeWeek": 230,
+    "timeMonth": 143,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-12-26": 0
+      "2025-12-26": 16
     }
   },
   {
