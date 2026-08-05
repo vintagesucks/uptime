@@ -4,7 +4,7 @@
     "url": "https://nikol.as/",
     "icon": "https://icons.duckduckgo.com/ip3/nikol.as.ico",
     "slug": "nikol-as",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 199,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-11-18": 151
+      "2025-11-18": 151,
+      "2026-08-05": 0
     }
   },
   {
